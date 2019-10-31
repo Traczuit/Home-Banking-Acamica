@@ -1,0 +1,2 @@
+# Home-Banking-Acamica
+ El proyecto consiste en simular un Home Banking, donde el usuario de la aplicación puede ver el saldo de su cuenta y simular acciones como extracción, depósito y transferencias de dinero o pago de servicios. El objetivo de este proyecto es poner en práctica los fundamentos de la programación, las bases comunes a todos los lenguajes de programación y a todos los sitios web que existen.
